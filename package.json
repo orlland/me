@@ -1,0 +1,24 @@
+{
+  "name": "orlland.me",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orlland/orlland.github.io.git"
+  },
+  "author": {
+    "name": "Orland Ureta",
+    "email": "orlland.me@gmail.com",
+    "url": "https://orlland.me"
+  },
+  "homepage": "https://orlland.me",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.2.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
