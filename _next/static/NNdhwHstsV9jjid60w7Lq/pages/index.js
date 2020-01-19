@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{Dtc0:function(n,t,u){"use strict";u.r(t),u.d(t,"default",(function(){return c}));var e=u("q1tI"),o=u.n(e).a.createElement;function c(){return o("h1",null,"orlland.me")}},H0SL:function(n,t,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/",function(){return u("Dtc0")}])}},[["H0SL",0,2,1]]]);
