@@ -1,11 +1,11 @@
-const debug = process.env.NODE_ENV !== 'production';
+const prod = process.env.NODE_ENV === 'production'
 
 module.exports = {
   exportPathMap: () => ({
     '/': { page: '/' }
   }),
 
-  assetPrefix: !debug ? '/orlland.github.io/' : '',
+  assetPrefix: prod ? 'https://orlland.me/' : '',
 
   webpack: (config, { dev }) => {
     config.module.rules = config.module.rules.map(rule => {
