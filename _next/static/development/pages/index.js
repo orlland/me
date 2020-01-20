@@ -48219,43 +48219,56 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 function HomePage() {
   return __jsx(_material_ui_core__WEBPACK_IMPORTED_MODULE_1__["Container"], {
     maxWidth: "lg",
+    style: {
+      display: 'flex',
+      flexDirection: 'column',
+      justifyContent: 'center',
+      height: '100vh'
+    },
     __source: {
       fileName: _jsxFileName,
       lineNumber: 14
     },
     __self: this
   }, __jsx(_material_ui_core__WEBPACK_IMPORTED_MODULE_1__["Typography"], {
-    variant: "h2",
+    variant: "h4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
+      lineNumber: 23
     },
     __self: this
-  }, "I'm ", __jsx("strong", {
+  }, "I'm Orland Ureta, a Full Stack JavaScript Developer with more than 10 years of professional experience."), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
+      lineNumber: 26
     },
     __self: this
-  }, "Orland Ureta"), ", a Full Stack JavaScript Developer for Web and Mobile Applications."), __jsx(_material_ui_core__WEBPACK_IMPORTED_MODULE_1__["Typography"], {
+  }), __jsx(_material_ui_core__WEBPACK_IMPORTED_MODULE_1__["Typography"], {
     variant: "h5",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
+      lineNumber: 27
     },
     __self: this
-  }, "I want to help turn your great ideas into ", __jsx("em", {
+  }, "I want to help turn your great ideas into modern software applications as fast as efficient as possible while observing high standards for usability and maintainability."), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
+      lineNumber: 31
     },
     __self: this
-  }, "modern software applications"), " as fast as efficient as possible while observing high standards for usability and maintainability. I can develop applications that run on Web, Mobile, and Destop using proven technologies like JavaScript, React, React Native, GraphQL, Meteor, Firebase, and Strapi using infrastruct"));
+  }), __jsx(_material_ui_core__WEBPACK_IMPORTED_MODULE_1__["Typography"], {
+    variant: "h5",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 32
+    },
+    __self: this
+  }, "I can develop applications that run on Web, Mobile, and Destop platforms using proven technologies like JavaScript, React, React Native, GraphQL, Meteor, Firebase, and Strapi hosted on Amazon Web Services and Digital Ocean."));
 }
 
 /***/ }),
 
-/***/ 1:
+/***/ 0:
 /*!*************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Forland%2Forlland.me%2Fsrc%2Fpages%2Findex.jsx ***!
   \*************************************************************************************************************************/
@@ -48278,5 +48291,5 @@ module.exports = dll_5f137288facb1107b491;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
