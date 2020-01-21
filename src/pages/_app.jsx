@@ -27,14 +27,26 @@ export default class MyApp extends App {
       <Container>
         <style global jsx>{`
           body {
+            background: rgba(0, 0, 0, 0.08);
+            color: rgba(0, 0, 0, 0.8);
             margin: 0;
+            -webkit-font-smoothing: auto;
+          }
+
+          h4.MuiTypography-h4 {
+            font-family: Montserrat;
+          }
+
+          h5.MuiTypography-h5 {
+            font-weight: 300;
           }
         `}</style>
 
         <Head>
-          <title>Orland Ureta | Full Stack JavaScript Developer</title>
+          <title>Full Stack JavaScript Developer | orlland.me</title>
 
           <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap' />
+          <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Montserrat:300&display=swap' />
         </Head>
 
         <AppBar position='static' style={{ display: 'none' }}>

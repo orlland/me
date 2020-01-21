@@ -17,7 +17,8 @@ export default function HomePage() {
         display: 'flex',
         flexDirection: 'column',
         justifyContent: 'center',
-        height: '100vh'
+        minHeight: '100vh',
+        padding: '10vh 32px'
       }}
     >
       <Typography variant='h4'>
