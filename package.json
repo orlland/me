@@ -13,7 +13,7 @@
   "homepage": "https://orlland.me",
   "scripts": {
     "start": "next",
-    "deploy": "rm -rf node_modules/.cache && rimraf out && next build && next export && touch out/.nojekyll && touch out/CNAME && echo \"orlland.me\" >> out/CNAME && gh-pages -d out && rm -rf out"
+    "deploy": "rm -rf node_modules/.cache && rimraf out && next build && next export && touch out/.nojekyll && touch out/CNAME && echo \"orlland.me\" >> out/CNAME"
   },
   "dependencies": {
     "@material-ui/core": "^4.8.3",
