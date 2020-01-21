@@ -57011,28 +57011,37 @@ function (_App) {
         },
         __self: this
       }, __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_7___default.a, {
-        id: "523879908",
+        id: "141751530",
         __self: this
-      }, "body{margin:0;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9vcmxhbmQvb3JsbGFuZC5tZS9zcmMvcGFnZXMvX2FwcC5qc3giXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBMkIyQixBQUdzQixTQUNYIiwiZmlsZSI6Ii9Vc2Vycy9vcmxhbmQvb3JsbGFuZC5tZS9zcmMvcGFnZXMvX2FwcC5qc3giLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgQXBwLCB7IENvbnRhaW5lciB9IGZyb20gJ25leHQvYXBwJ1xuaW1wb3J0IEhlYWQgZnJvbSAnbmV4dC9oZWFkJ1xuXG5pbXBvcnQge1xuICBBcHBCYXIsXG4gIEljb25CdXR0b24sXG4gIFRvb2xiYXIsXG4gIFR5cG9ncmFwaHlcbn0gZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUnXG5pbXBvcnQgTWVudUljb24gZnJvbSAnQG1hdGVyaWFsLXVpL2ljb25zL01lbnUnO1xuXG5leHBvcnQgZGVmYXVsdCBjbGFzcyBNeUFwcCBleHRlbmRzIEFwcCB7XG4gIHN0YXRpYyBhc3luYyBnZXRJbml0aWFsUHJvcHMoeyBDb21wb25lbnQsIGN0eCB9KSB7XG4gICAgbGV0IHBhZ2VQcm9wcyA9IHt9XG5cbiAgICBpZiAoQ29tcG9uZW50LmdldEluaXRpYWxQcm9wcykge1xuICAgICAgcGFnZVByb3BzID0gYXdhaXQgQ29tcG9uZW50LmdldEluaXRpYWxQcm9wcyhjdHgpXG4gICAgfVxuXG4gICAgcmV0dXJuIHsgcGFnZVByb3BzIH1cbiAgfVxuXG4gIHJlbmRlcigpIHtcbiAgICBjb25zdCB7IENvbXBvbmVudCwgcGFnZVByb3BzIH0gPSB0aGlzLnByb3BzXG5cbiAgICByZXR1cm4gKFxuICAgICAgPENvbnRhaW5lcj5cbiAgICAgICAgPHN0eWxlIGdsb2JhbCBqc3g+e2BcbiAgICAgICAgICBib2R5IHtcbiAgICAgICAgICAgIG1hcmdpbjogMDtcbiAgICAgICAgICB9XG4gICAgICAgIGB9PC9zdHlsZT5cblxuICAgICAgICA8SGVhZD5cbiAgICAgICAgICA8dGl0bGU+T3JsYW5kIFVyZXRhIHwgRnVsbCBTdGFjayBKYXZhU2NyaXB0IERldmVsb3BlcjwvdGl0bGU+XG5cbiAgICAgICAgICA8bGluayByZWw9J3N0eWxlc2hlZXQnIGhyZWY9J2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1Sb2JvdG86MzAwLDQwMCw1MDAsNzAwJmRpc3BsYXk9c3dhcCcgLz5cbiAgICAgICAgPC9IZWFkPlxuXG4gICAgICAgIDxBcHBCYXIgcG9zaXRpb249J3N0YXRpYycgc3R5bGU9e3sgZGlzcGxheTogJ25vbmUnIH19PlxuICAgICAgICAgIDxUb29sYmFyPlxuICAgICAgICAgICAgPEljb25CdXR0b24gZWRnZT0nc3RhcnQnIGNvbG9yPSdpbmhlcml0JyBhcmlhLWxhYmVsPSdtZW51Jz5cbiAgICAgICAgICAgICAgPE1lbnVJY29uIC8+XG4gICAgICAgICAgICA8L0ljb25CdXR0b24+XG4gICAgICAgICAgICA8VHlwb2dyYXBoeSB2YXJpYW50PSdoNic+XG4gICAgICAgICAgICAgIEFib3V0XG4gICAgICAgICAgICA8L1R5cG9ncmFwaHk+XG4gICAgICAgICAgPC9Ub29sYmFyPlxuICAgICAgICA8L0FwcEJhcj5cbiAgICAgICAgPENvbXBvbmVudCB7Li4ucGFnZVByb3BzfSAvPlxuICAgICAgPC9Db250YWluZXI+XG4gICAgKVxuICB9XG59XG4iXX0= */\n/*@ sourceURL=/Users/orland/orlland.me/src/pages/_app.jsx */"), __jsx(next_head__WEBPACK_IMPORTED_MODULE_10___default.a, {
+      }, "body{background:rgba(0,0,0,0.08);color:rgba(0,0,0,0.8);margin:0;-webkit-font-smoothing:auto;}h4.MuiTypography-h4{font-family:Montserrat;}h5.MuiTypography-h5{font-weight:300;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9vcmxhbmQvb3JsbGFuZC5tZS9zcmMvcGFnZXMvX2FwcC5qc3giXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBMkIyQixBQUc0QyxBQU9SLEFBSVAsZ0JBQ2xCLE9BSkEsS0FQMkIsc0JBQ2hCLFNBQ21CLDRCQUM5QiIsImZpbGUiOiIvVXNlcnMvb3JsYW5kL29ybGxhbmQubWUvc3JjL3BhZ2VzL19hcHAuanN4Iiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IEFwcCwgeyBDb250YWluZXIgfSBmcm9tICduZXh0L2FwcCdcbmltcG9ydCBIZWFkIGZyb20gJ25leHQvaGVhZCdcblxuaW1wb3J0IHtcbiAgQXBwQmFyLFxuICBJY29uQnV0dG9uLFxuICBUb29sYmFyLFxuICBUeXBvZ3JhcGh5XG59IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlJ1xuaW1wb3J0IE1lbnVJY29uIGZyb20gJ0BtYXRlcmlhbC11aS9pY29ucy9NZW51JztcblxuZXhwb3J0IGRlZmF1bHQgY2xhc3MgTXlBcHAgZXh0ZW5kcyBBcHAge1xuICBzdGF0aWMgYXN5bmMgZ2V0SW5pdGlhbFByb3BzKHsgQ29tcG9uZW50LCBjdHggfSkge1xuICAgIGxldCBwYWdlUHJvcHMgPSB7fVxuXG4gICAgaWYgKENvbXBvbmVudC5nZXRJbml0aWFsUHJvcHMpIHtcbiAgICAgIHBhZ2VQcm9wcyA9IGF3YWl0IENvbXBvbmVudC5nZXRJbml0aWFsUHJvcHMoY3R4KVxuICAgIH1cblxuICAgIHJldHVybiB7IHBhZ2VQcm9wcyB9XG4gIH1cblxuICByZW5kZXIoKSB7XG4gICAgY29uc3QgeyBDb21wb25lbnQsIHBhZ2VQcm9wcyB9ID0gdGhpcy5wcm9wc1xuXG4gICAgcmV0dXJuIChcbiAgICAgIDxDb250YWluZXI+XG4gICAgICAgIDxzdHlsZSBnbG9iYWwganN4PntgXG4gICAgICAgICAgYm9keSB7XG4gICAgICAgICAgICBiYWNrZ3JvdW5kOiByZ2JhKDAsIDAsIDAsIDAuMDgpO1xuICAgICAgICAgICAgY29sb3I6IHJnYmEoMCwgMCwgMCwgMC44KTtcbiAgICAgICAgICAgIG1hcmdpbjogMDtcbiAgICAgICAgICAgIC13ZWJraXQtZm9udC1zbW9vdGhpbmc6IGF1dG87XG4gICAgICAgICAgfVxuXG4gICAgICAgICAgaDQuTXVpVHlwb2dyYXBoeS1oNCB7XG4gICAgICAgICAgICBmb250LWZhbWlseTogTW9udHNlcnJhdDtcbiAgICAgICAgICB9XG5cbiAgICAgICAgICBoNS5NdWlUeXBvZ3JhcGh5LWg1IHtcbiAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiAzMDA7XG4gICAgICAgICAgfVxuICAgICAgICBgfTwvc3R5bGU+XG5cbiAgICAgICAgPEhlYWQ+XG4gICAgICAgICAgPHRpdGxlPkZ1bGwgU3RhY2sgSmF2YVNjcmlwdCBEZXZlbG9wZXIgfCBvcmxsYW5kLm1lPC90aXRsZT5cblxuICAgICAgICAgIDxsaW5rIHJlbD0nc3R5bGVzaGVldCcgaHJlZj0naHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PVJvYm90bzozMDAsNDAwLDUwMCw3MDAmZGlzcGxheT1zd2FwJyAvPlxuICAgICAgICAgIDxsaW5rIHJlbD0nc3R5bGVzaGVldCcgaHJlZj0naHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PU1vbnRzZXJyYXQ6MzAwJmRpc3BsYXk9c3dhcCcgLz5cbiAgICAgICAgPC9IZWFkPlxuXG4gICAgICAgIDxBcHBCYXIgcG9zaXRpb249J3N0YXRpYycgc3R5bGU9e3sgZGlzcGxheTogJ25vbmUnIH19PlxuICAgICAgICAgIDxUb29sYmFyPlxuICAgICAgICAgICAgPEljb25CdXR0b24gZWRnZT0nc3RhcnQnIGNvbG9yPSdpbmhlcml0JyBhcmlhLWxhYmVsPSdtZW51Jz5cbiAgICAgICAgICAgICAgPE1lbnVJY29uIC8+XG4gICAgICAgICAgICA8L0ljb25CdXR0b24+XG4gICAgICAgICAgICA8VHlwb2dyYXBoeSB2YXJpYW50PSdoNic+XG4gICAgICAgICAgICAgIEFib3V0XG4gICAgICAgICAgICA8L1R5cG9ncmFwaHk+XG4gICAgICAgICAgPC9Ub29sYmFyPlxuICAgICAgICA8L0FwcEJhcj5cbiAgICAgICAgPENvbXBvbmVudCB7Li4ucGFnZVByb3BzfSAvPlxuICAgICAgPC9Db250YWluZXI+XG4gICAgKVxuICB9XG59XG4iXX0= */\n/*@ sourceURL=/Users/orland/orlland.me/src/pages/_app.jsx */"), __jsx(next_head__WEBPACK_IMPORTED_MODULE_10___default.a, {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 34
+          lineNumber: 45
         },
         __self: this
       }, __jsx("title", {
-        className: "jsx-523879908",
+        className: "jsx-141751530",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 35
+          lineNumber: 46
         },
         __self: this
-      }, "Orland Ureta | Full Stack JavaScript Developer"), __jsx("link", {
+      }, "Full Stack JavaScript Developer | orlland.me"), __jsx("link", {
         rel: "stylesheet",
         href: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap",
-        className: "jsx-523879908",
+        className: "jsx-141751530",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 37
+          lineNumber: 48
+        },
+        __self: this
+      }), __jsx("link", {
+        rel: "stylesheet",
+        href: "https://fonts.googleapis.com/css?family=Montserrat:300&display=swap",
+        className: "jsx-141751530",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 49
         },
         __self: this
       })), __jsx(_material_ui_core__WEBPACK_IMPORTED_MODULE_11__["AppBar"], {
@@ -57042,13 +57051,13 @@ function (_App) {
         },
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 40
+          lineNumber: 52
         },
         __self: this
       }, __jsx(_material_ui_core__WEBPACK_IMPORTED_MODULE_11__["Toolbar"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 41
+          lineNumber: 53
         },
         __self: this
       }, __jsx(_material_ui_core__WEBPACK_IMPORTED_MODULE_11__["IconButton"], {
@@ -57057,27 +57066,27 @@ function (_App) {
         "aria-label": "menu",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 42
+          lineNumber: 54
         },
         __self: this
       }, __jsx(_material_ui_icons_Menu__WEBPACK_IMPORTED_MODULE_12___default.a, {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 43
+          lineNumber: 55
         },
         __self: this
       })), __jsx(_material_ui_core__WEBPACK_IMPORTED_MODULE_11__["Typography"], {
         variant: "h6",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 45
+          lineNumber: 57
         },
         __self: this
       }, "About"))), __jsx(Component, Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_1__["default"])({}, pageProps, {
-        className: "jsx-523879908" + " " + (pageProps && pageProps.className != null && pageProps.className || ""),
+        className: "jsx-141751530" + " " + (pageProps && pageProps.className != null && pageProps.className || ""),
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 50
+          lineNumber: 62
         },
         __self: this
       })));

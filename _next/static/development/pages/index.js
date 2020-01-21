@@ -48223,7 +48223,8 @@ function HomePage() {
       display: 'flex',
       flexDirection: 'column',
       justifyContent: 'center',
-      height: '100vh'
+      minHeight: '100vh',
+      padding: '10vh 32px'
     },
     __source: {
       fileName: _jsxFileName,
@@ -48234,33 +48235,33 @@ function HomePage() {
     variant: "h4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
+      lineNumber: 24
     },
     __self: this
   }, "I'm Orland Ureta, a Full Stack JavaScript Developer with more than 10 years of professional experience."), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
+      lineNumber: 27
     },
     __self: this
   }), __jsx(_material_ui_core__WEBPACK_IMPORTED_MODULE_1__["Typography"], {
     variant: "h5",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
+      lineNumber: 28
     },
     __self: this
   }, "I want to help turn your great ideas into modern software applications as fast as efficient as possible while observing high standards for usability and maintainability."), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
+      lineNumber: 32
     },
     __self: this
   }), __jsx(_material_ui_core__WEBPACK_IMPORTED_MODULE_1__["Typography"], {
     variant: "h5",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32
+      lineNumber: 33
     },
     __self: this
   }, "I can develop applications that run on Web, Mobile, and Destop platforms using proven technologies like JavaScript, React, React Native, GraphQL, Meteor, Firebase, and Strapi hosted on Amazon Web Services and Digital Ocean."));
