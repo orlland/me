@@ -3,7 +3,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/orlland/orlland.github.io.git"
+    "url": "git+https://github.com/orlland/me.git"
   },
   "author": {
     "name": "Orland Ureta",
@@ -13,7 +13,7 @@
   "homepage": "https://orlland.me",
   "scripts": {
     "start": "next",
-    "deploy": "rm -rf node_modules/.cache && rimraf out && next build && next export && touch out/.nojekyll && touch out/CNAME && echo \"orlland.me\" >> out/CNAME"
+    "deploy": "rm -rf node_modules/.cache && rimraf out && next build && next export && touch out/.nojekyll && touch out/CNAME && echo \"orlland.me\" >> out/CNAME && gh-pages -d out -t && rm -rf out"
   },
   "dependencies": {
     "@material-ui/core": "^4.8.3",

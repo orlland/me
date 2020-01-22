@@ -31,7 +31,7 @@ export default function HomePage() {
       </Typography>
       <br />
       <Typography variant='h5'>
-        I can develop applications that run on Web, Mobile, and Destop platforms
+        I can develop applications that run on Web, Mobile, and Desktop platforms
         using proven technologies like JavaScript, React, React Native, GraphQL, Meteor, Firebase, and Strapi
         hosted on Amazon Web Services and Digital Ocean.
       </Typography>
